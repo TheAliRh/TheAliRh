@@ -102,7 +102,28 @@ Coming soon.
 
 ## Stack
 
-Coming soon.
+## Stack
+
+### Languages
+
+`Go` · `Python` · `C++`
+
+### Backend
+
+`Gin` · `FastAPI` · `Django` · `REST APIs`
+
+### Databases
+
+`PostgreSQL` · `MongoDB` · `Redis`
+
+### Infrastructure & Tools
+
+`Linux` · `Docker` · `Git`
+
+### Engineering Focus
+
+`System Design` · `API Design` · `Scalability` · `Security`
+
 
 ---
 
