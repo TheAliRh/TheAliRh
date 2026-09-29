@@ -56,7 +56,7 @@ A backend system for generating and managing short URLs, designed as a practical
 
 **Focus:** Backend Architecture · APIs · Databases · System Design
 
-[Repository]((https://github.com/TheAliRh/url-shortener)) · [Architecture](#)
+[Repository](https://github.com/TheAliRh/url-shortener) · [Architecture](#)
 
 ---
 
